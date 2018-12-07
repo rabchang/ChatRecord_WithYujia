@@ -1,2 +1,2 @@
 # ChatRecord_WithYujia
-我和瑜伽的聊天记录
+我和[瑜伽](https://github.com/naive-yang)的聊天记录.
